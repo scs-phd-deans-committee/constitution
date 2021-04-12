@@ -1,4 +1,4 @@
-DOC=main.tex
+DOC=constitution.tex
 pdf: 
 	pdflatex $(DOC)
 
